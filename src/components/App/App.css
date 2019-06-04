@@ -1,0 +1,61 @@
+.App {
+  text-align: center;
+}
+
+.App-header {
+  background-color: #222;
+  height: 70px;
+  padding: 20px;
+  color: white;
+}
+
+.App-title {
+  font-size: 1.5em;
+}
+
+.App-intro {
+  font-size: large;
+}
+
+@keyframes App-logo-spin {
+  from { transform: rotate(0deg); }
+  to { transform: rotate(360deg); }
+}
+
+
+h2 {
+  font-size: medium;
+}
+
+img {
+  border: solid 1px black;
+  margin: 5px;
+  margin-top: 50px;
+}
+
+/* span {
+  
+} */
+
+ul li {
+  display: inline-block;
+  
+}
+
+.like_counter {
+  font-size: xx-small;
+  
+}
+
+.text_item {
+  background-color: black;  
+  border: solid 1px black;
+  color: white;
+  float: left;
+  padding-top: 35px;
+  font-size: x-small;
+  height: 95px;
+  margin: 5px;
+  margin-top: 50px;
+  width: 125px;
+}
